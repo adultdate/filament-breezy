@@ -2,7 +2,7 @@
     "name": "adultdate/filament-breezy",
     "description": "A custom package for Filament with login flow, profile and teams support.",
     "keywords": [
-        "jeffgreco13",
+        "adultdate",
         "laravel",
         "filament-breezy"
     ],
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Jeff Greco",
-            "email": "jeff@jeffpgreco.com",
+            "name": "adultdate",
+            "email": "adultdate@gmail.com",
             "role": "Developer"
         }
     ],
